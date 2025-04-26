@@ -1,5 +1,3 @@
-package org.example;
-
 import java.util.*;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -13,6 +11,10 @@ public class lista_java_basico {
         //questaoQuatro();
         //questaoCinco();
         //questaoSeis();
+
+        String a = new String("oi");
+        String b = new String("oi");
+        System.out.println(a == b);
 
     }
 
